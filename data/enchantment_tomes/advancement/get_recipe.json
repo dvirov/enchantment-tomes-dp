@@ -1,0 +1,33 @@
+{
+  "criteria": {
+    "1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:book",
+              "minecraft:enchanted_book",
+              "minecraft:blaze_rod",
+              "minecraft:blaze_powder"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "enchantment_tomes:tome_axe",
+      "enchantment_tomes:tome_boots",
+      "enchantment_tomes:tome_chestplate",
+      "enchantment_tomes:tome_helmet",
+      "enchantment_tomes:tome_hoe",
+      "enchantment_tomes:tome_leggings",
+      "enchantment_tomes:tome_pickaxe",
+      "enchantment_tomes:tome_shovel",
+      "enchantment_tomes:tome_sword",
+      "enchantment_tomes:tome_mace"
+    ]
+  }
+}
