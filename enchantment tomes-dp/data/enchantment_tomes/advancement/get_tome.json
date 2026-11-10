@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "predicates": {
+              "minecraft:enchantments": [{}],
+              "minecraft:custom_data": {
+                "id": "enchantment_tome",
+                "tome_enchanted": false
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "enchantment_tomes:detect_slot"
+  }
+}

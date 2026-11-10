@@ -1,0 +1,2 @@
+### bug fix 
+- chat spam wwhen enchanting tomes

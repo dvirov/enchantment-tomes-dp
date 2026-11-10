@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+    "textures": {
+    "layer0": "enchantment_tomes:item/leggings_tome"
+  }
+}

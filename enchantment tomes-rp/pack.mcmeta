@@ -1,0 +1,10 @@
+{
+  "id":"enchantment_tomes",
+  "pack": {
+    "description": "Enchantment Tomes Pack v",
+    "pack_format": 46,
+    "supported_formats": {"max_inclusive": 999,"min_inclusive": 46},
+    "min_format": 46,
+    "max_format": [999,0]
+  }
+}
