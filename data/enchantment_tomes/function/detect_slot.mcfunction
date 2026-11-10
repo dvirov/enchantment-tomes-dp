@@ -1,4 +1,3 @@
-say pass
 
 #data remove storage enchantment_tomes:store data
 

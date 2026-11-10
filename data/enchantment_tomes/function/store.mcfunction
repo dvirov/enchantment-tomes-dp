@@ -1,4 +1,3 @@
-$say slot-$(slot)
 
 $data modify storage enchantment_tomes:store data.enchantment.minecraft:stored_enchantments set from entity @s Inventory.[{Slot:$(slot)b}].components.minecraft:enchantments
 
